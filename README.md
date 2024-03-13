@@ -1,4 +1,4 @@
-## 👋 Hi, I am Daniel
+## 👋 Hi, I am Wei
 
 :chart_with_upwards_trend: A software engineer at Kronos Research working on high frequency trading systems. 
 
